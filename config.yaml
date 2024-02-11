@@ -1,0 +1,6 @@
+alchemy:
+  api_key: ${ALCHEMY_API_KEY}
+  base_url: ${ALCHEMY_BASE_URL:https://eth-mainnet.g.alchemy.com/v2}
+nft:
+  contract_address: ${NFT_CONTRACT:0x0000000000000000000000000000000000000000}
+
